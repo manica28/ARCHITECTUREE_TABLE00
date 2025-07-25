@@ -26,5 +26,10 @@
       "database:migrate": "php migrations/Migration.php",
       "database:seed": "php seeders/Seeder.php"
 
-    }
+    },
+
+    "type": "project",
+
+    "licence": "MIT"
+
 }
