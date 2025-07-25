@@ -1,5 +1,5 @@
 {
-    "name": "tableezeroo/ges-employer",
+    "name": "tableezeroo/appdaff",
     "autoload": {
         "psr-4": {
             "App\\Entity\\": "src/entity/",
